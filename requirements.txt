@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+psycopg[binary]
+
+psycopg[binary]
